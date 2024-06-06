@@ -189,7 +189,7 @@ export const asyncRoutes = [
   // 临时注释
   // componentsRouter,
   // chartsRouter,
-  // nestedRouter,
+  nestedRouter,
   // tableRouter,
 
   {
